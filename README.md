@@ -2,7 +2,7 @@
 Minha lista de resumos teóricos de tópicos do DDD, termos técnicos eu não vou traduzi-los para ficarem em sua essência.
 
 # Solid
-    [Ropositório onde escrevi um pouco de solid](https://github.com/Lipe1994/Solid)
+[Ropositório onde escrevi um pouco de solid](https://github.com/Lipe1994/Solid)
 
 
 # Ubiquitous language
