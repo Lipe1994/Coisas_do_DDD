@@ -17,18 +17,34 @@ Estes pedaços menores formam o Context Map(mapa de contextos).
 
 # Tipos de relacionamento
 Contextos Upstream influenciam contextos Downstream.
+
     Cliente => É um Downtream;
+
     Fornecedor => É um Upstream;
+
     Conformista => Relação em que um contexto Downstream se conforma com um serviço Upstream de terceiros;
+
     Camada de anti-corrupção => camada para garantir que mudanças no Upstream de terceiros não influencie na camada Downstream, de medo que se este serviço de terceiros for trocado não influencie  fora da camada de anticorrupção.
+
 
 # Estilos e padrões de arquiterura
     Transaction Script Pattern;
     Table Module Pattern;
+    Domain Module;
+    
+
+    CQRS;
+    Event Sourcing;
     Arquitetura Cebola;
     Arquitetura Hexagonal;
+
+
     Camada de apresentação;
     Camada de aplicação;
     Camada de domínio;
     Camada de infra-estrutura;
+
+# Projetos
+
+[Ropositório com implementação com foco no domínio](https://github.com/Lipe1994/Implementacao_com_foco_no_dominio)
 
