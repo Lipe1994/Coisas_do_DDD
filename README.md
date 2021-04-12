@@ -24,7 +24,8 @@ Contextos Upstream influenciam contextos Downstream.
 
     Conformista => Relação em que um contexto Downstream se conforma com um serviço Upstream de terceiros;
 
-    Camada de anti-corrupção => camada para garantir que mudanças no Upstream de terceiros não influencie na camada Downstream, de medo que se este serviço de terceiros for trocado não influencie  fora da camada de anticorrupção.
+    Camada de anti-corrupção => camada para garantir que mudanças no Upstream de terceiros não influencie na camada Downstream,
+    de medo que se este serviço de terceiros for trocado não influencie  fora da camada de anticorrupção.
 
 
 # Estilos e padrões de arquiterura
