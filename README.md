@@ -1,5 +1,5 @@
 # Coisas_do_DDD
-Minha lista de resumos teóricos de tópicos do DDD, termos técnicos eu não vou traduzi-los para ficarem em sua essência.
+Minha lista de resumos teóricos de tópicos do DDD.
 
 # Solid
 [Ropositório onde escrevi um pouco de solid](https://github.com/Lipe1994/Solid)
